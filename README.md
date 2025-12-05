@@ -49,8 +49,5 @@ The project aims to uncover early insights on customer behavior and ensure the d
 * Develop a predictive model to estimate the likelihood of deposit subscription.
 * Expand the exploratory analysis to include time-based and demographic segmentation.
 
-## License
-
-This project is licensed under the MIT License.
 
 **Author:** Amalina Yasmin & Rafi Abiyyu Priyahutama
